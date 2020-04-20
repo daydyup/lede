@@ -9,7 +9,7 @@
 
 name: My-WRT1.2
 
-on:
+#on:
   push:
     branches: 
       - master
